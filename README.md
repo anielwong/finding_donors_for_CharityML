@@ -26,4 +26,4 @@ The softwares will need to be installed and ready to run and execute a [Jupyter 
 If Python is not installed yet, it is highly recommended to install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
 
 ## Starting the Project
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command jupyter notebook finding_donors.ipynb to open up a browser window or tab to work with the notebook. Alternatively, the command jupyter notebook or ipython notebook can be used and navigate to the notebook file in the browser window that opens. A README file has also been provided with the project files which may contain additional necessary information or instruction for the project.
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command jupyter notebook finding_donors.ipynb to open up a browser window or tab to work with the notebook. Alternatively, the command jupyter notebook or ipython notebook can be used and navigate to the notebook file in the browser window that opens. 
