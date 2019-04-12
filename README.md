@@ -5,11 +5,11 @@ The goal of this project is to evaluate and optimize several different supervise
 
 This project is based on the [Machine Learning Engineer Udacity Course](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009). It is designed to gain experience with supervised learning algorithms, preprocessing technics, evaluating learners, model optimization and so on.
 
- ## Project Highlights
+## Project Highlights
 This project contains three files:
 
     finding_donors.ipynb: This is the main file where the project is performed.
-    census.csv: The project datasetto be loaded in the notebook.
+    census.csv: The project dataset to be loaded in the notebook.
     visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
 
 ## Software and Libraries
