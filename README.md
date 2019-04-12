@@ -21,7 +21,7 @@ This project uses the following software and Python libraries:
 - [scikit-learn](http://scikit-learn.org/stable/)(v0.17)
 - [matplotlib](http://matplotlib.org/)
 
-The software will need to be installed and ready to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
+The softwares will need to be installed and ready to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
 If Python is not installed yet, it is highly recommended to install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
 
