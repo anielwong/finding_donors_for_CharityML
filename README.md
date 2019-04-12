@@ -1,0 +1,2 @@
+# finding_donors_for_CharityML
+The goal of this project is to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield for a fictitious charity organization, while also reducing the total number of letters being sent to ask for donations. This fictitious charity organization is CharityML located in the heart of Silicon Valley and was established to provide financial support for people eager to learn machine learning.
